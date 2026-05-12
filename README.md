@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-**ritishwar123/ritishwar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 I’m currently working on AI-powered full-stack web applications using the MERN stack and LLM integrations<br> I’m looking to collaborate on Full-Stack Development, AI/LLM Projects, and Open Source Contributions<br> I’m looking for help with Distributed Systems, Advanced Backend Architecture, and CI/CD Pipelines<br> I’m currently learning AWS Cloud, System Design, and Scalable Backend Engineering<br>💬 Ask me about React.js, Node.js, REST APIs, MongoDB, MERN Stack, and DSA<br> Fun fact: I built an AI website generator that converts natural language prompts into functional websites 🚀
 
 
