@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ritishwar123/ritishwar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -32,4 +31,4 @@ I’m currently working on AI-powered full-stack web applications using the MERN
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
